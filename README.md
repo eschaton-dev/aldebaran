@@ -1,4 +1,4 @@
-<img align="left" height="40px" style="margin-right: 10px" src="public/logo.png">
+<img align="left" height="60px" style="margin-right: 10px" src="public/logo.png">
 
 # Aldebaran
 
